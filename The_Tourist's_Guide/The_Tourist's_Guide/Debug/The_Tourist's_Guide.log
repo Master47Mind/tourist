@@ -1,0 +1,30 @@
+﻿Build started 1/23/2015 4:27:03 PM.
+     1>Project "C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\The_Tourist's_Guide\The_Tourist's_Guide.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\The_Tourist's_Guide\The_Tourist's_Guide\Comestibles_Implemented.cpp" "..\..\The_Tourist's_Guide\The_Tourist's_Guide\Comestibles_List_Implemented.cpp" "..\..\The_Tourist's_Guide\The_Tourist's_Guide\Cuisines_List_Implemented.cpp" "..\..\The_Tourist's_Guide\The_Tourist's_Guide\Resorts_List_Implemented.cpp" "..\..\The_Tourist's_Guide\The_Tourist's_Guide\Zones_List_Implemented.cpp" Cuisines_Implemented.cpp Resorts_Implemented.cpp Zones_Implemented.cpp Code_Execution.cpp
+         Code_Execution.cpp
+         Zones_Implemented.cpp
+         Resorts_Implemented.cpp
+         Cuisines_Implemented.cpp
+         Zones_List_Implemented.cpp
+         Resorts_List_Implemented.cpp
+         Cuisines_List_Implemented.cpp
+         Comestibles_List_Implemented.cpp
+         Comestibles_Implemented.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\Debug\The_Tourist's_Guide.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\Debug\The_Tourist's_Guide.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\Debug\The_Tourist's_Guide.lib" /MACHINE:X86 Debug\Comestibles_Implemented.obj
+         Debug\Comestibles_List_Implemented.obj
+         Debug\Cuisines_List_Implemented.obj
+         Debug\Resorts_List_Implemented.obj
+         Debug\Zones_List_Implemented.obj
+         Debug\Cuisines_Implemented.obj
+         Debug\Resorts_Implemented.obj
+         Debug\Zones_Implemented.obj
+         Debug\Code_Execution.obj
+         The_Tourist's_Guide.vcxproj -> C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\Debug\The_Tourist's_Guide.exe
+     1>Done Building Project "C:\Users\Syed\Documents\Tourist_Guide (Data Structures Project)\The_Tourist's_Guide\The_Tourist's_Guide\The_Tourist's_Guide.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.16

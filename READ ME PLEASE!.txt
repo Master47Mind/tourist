@@ -1,0 +1,3 @@
+Admin's Password: MasterMind
+
+Audio is recommended, small delays in excecution are due to voice functions of sound API added.
